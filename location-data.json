@@ -1,0 +1,25 @@
+{
+  "coordinates": {
+    "lat": 34.1184341,
+    "lng": -118.3003935
+  },
+  "place_details": {
+    "name": "Griffith Observatory",
+    "address": "2800 E Observatory Rd, Los Angeles, CA 90027, USA",
+    "rating": 4.7,
+    "phone": "(213) 473-0800",
+    "website": "https://griffithobservatory.org/",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ]
+    }
+  },
+  "elevation_meters": 345.4858703613281
+}

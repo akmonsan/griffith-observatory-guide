@@ -1,0 +1,18 @@
+Directions (Driving) from Hollywood Walk of Fame to Griffith Observatory:
+Summary: Los Feliz Blvd
+Total distance: 4.1 mi (6593 meters)
+Total duration: 15 mins (899 seconds)
+Steps:
+1. Head east on Hollywood Blvd (0.3 mi, 1 min)
+2. Left onto N Bronson Ave (0.2 mi, 1 min)
+3. Right onto Franklin Ave (0.5 mi, 2 min)
+4. Left onto N Western Ave (0.2 mi, 1 min)
+5. N Western Ave becomes Los Feliz Blvd (1.0 mi, 2 min)
+6. Left onto N Vermont Ave (0.7 mi, 3 min)
+7. N Vermont Ave becomes N Vermont Canyon Rd (0.7 mi, 2 min)
+8. Continue onto Mt Hollywood Dr (0.2 mi, 1 min)
+9. Continue straight onto W Observatory Rd (0.4 mi, 3 min)
+
+Distance Matrix:
+Driving distance: 6.6 km (6594 meters)
+Driving duration: 15 mins (898 seconds)
